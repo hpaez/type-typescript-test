@@ -1,0 +1,22 @@
+{
+  "name": "type-typescript",
+  "version": "1.0.0",
+  "description": "Test for typescript type",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "type-typescript-test"
+  },
+  "author": "Hugo Paez",
+  "license": "ISC",
+  "volta": {
+    "node": "14.20.0"
+  }
+}
